@@ -1,8 +1,8 @@
-# 🧺 B-Laundry
+# 🧺 Cleaning Twin
 
 **Linen rental management for hospitality — my first startup.**
 
-B-Laundry tracks every piece of linen that moves between the laundry service and its clients: what was delivered clean, what was picked up dirty, and what is still sitting at each client's property.
+Cleaning Twin tracks every piece of linen that moves between the laundry service and its clients: what was delivered clean, what was picked up dirty, and what is still sitting at each client's property.
 
 ## Two sides, one platform
 
